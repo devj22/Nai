@@ -27,7 +27,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link href="/" className="text-xl font-bold text-primary flex items-center">
               <img 
-                src="https://i.ibb.co/ccmHcKpT/Whats-App-Image-2025-03-28-at-2-02-20-PM-2-2.jpg" 
+                src="https://i.ibb.co/RpknTqWg/Whats-App-Image-2025-03-28-at-2-02-20-PM-removebg-preview-2.png" 
                 alt="Nainaland Deals Logo" 
                 className="h-10 mr-2" 
               />
